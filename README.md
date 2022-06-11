@@ -1,4 +1,4 @@
-# Git
+# Git and Github
 Git material
 ## What is Git?
 
